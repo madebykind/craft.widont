@@ -1,6 +1,9 @@
 {
     "name": "madebykind/craft.windontextension",
     "description": "Provides a `widont` filter in your Craft CMS templates",
+    "keywords": ["craft","craftcms","widont"],
+    "homepage": "https://github.com/madebykind/craft.widont",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0"
     }
